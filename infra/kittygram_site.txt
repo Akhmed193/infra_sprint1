@@ -1,0 +1,6 @@
+IP: 89.169.172.80;
+name_taski: https://ashmed.zapto.org;
+name_kittygram: https://ashmed1.zapto.org;
+login: ahmed;
+password: Ahmed193;
+ 
